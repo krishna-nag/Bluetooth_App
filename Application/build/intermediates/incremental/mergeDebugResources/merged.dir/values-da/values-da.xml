@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"Naviger hjem"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"Naviger op"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"Flere muligheder"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"Luk"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"Se alle"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"Vælg en app"</string>
+    <string msgid="121134116657445385" name="abc_capital_off">"FRA"</string>
+    <string msgid="3405795526292276155" name="abc_capital_on">"TIL"</string>
+    <string msgid="7723749260725869598" name="abc_search_hint">"Søg…"</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"Ryd forespørgslen"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"Søgeforespørgsel"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"Søg"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"Indsend forespørgslen"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"Talesøgning"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"Del med"</string>
+    <string msgid="3300176832234831527" name="abc_shareactionprovider_share_with_application">"Del med <ns1:g id="APPLICATION_NAME">%s</ns1:g>"</string>
+    <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"Skjul"</string>
+    <string name="boxsdk_Authenticating">Godkender</string>
+    <string name="boxsdk_Authentication_cancelled">Godkendelse annulleret</string>
+    <string name="boxsdk_Authentication_fail">Godkendelse mislykkedes</string>
+    <string name="boxsdk_Authentication_fail_url_mismatch">Videresendelses-URL er ugyldig</string>
+    <string name="boxsdk_Cancel">Annuller</string>
+    <string name="boxsdk_Continue">Fortsæt</string>
+    <string name="boxsdk_Create_folder">Opret mappe</string>
+    <string name="boxsdk_Go_back">Gå tilbage</string>
+    <string name="boxsdk_Please_wait">Vent...</string>
+    <string name="boxsdk_Security_Warning">Sikkerhedsadvarsel</string>
+    <string name="boxsdk_Select">Væg</string>
+    <string name="boxsdk_Select_an_account_to_use">Vælg den konto, du vil bruge</string>
+    <string name="boxsdk_There_are_problems_with_the_security_certificate_for_this_site">Der er problemer med sikkerhedscertifikatet for dette websted.</string>
+    <string name="boxsdk_Use_a_different_account">Brug en anden konto</string>
+    <string description="" name="boxsdk_alert_dialog_cancel">Annuller</string>
+    <string description="" name="boxsdk_alert_dialog_ok">Send</string>
+    <string description="" name="boxsdk_alert_dialog_password">Adgangskode</string>
+    <string description="" name="boxsdk_alert_dialog_text_entry">Dette websted eller program anmoder om godkendelse.</string>
+    <string description="" name="boxsdk_alert_dialog_username">Brugernavn</string>
+    <string name="boxsdk_details">Detaljer</string>
+    <string name="boxsdk_ssl_error_warning_DATE_INVALID">Certifikatets dato er ugyldig.</string>
+    <string name="boxsdk_ssl_error_warning_EXPIRED">Certifikatet er udløbet.</string>
+    <string name="boxsdk_ssl_error_warning_ID_MISMATCH">Værtsnavn stemmer ikke.</string>
+    <string name="boxsdk_ssl_error_warning_INVALID">Der opstod en generisk fejl.</string>
+    <string name="boxsdk_ssl_error_warning_NOT_YET_VALID">Certifikatet er endnu ikke gyldigt.</string>
+    <string name="boxsdk_ssl_error_warning_UNTRUSTED">Der er ikke tillid til certifikatautoriteten.</string>
+    <string name="boxsdk_ssl_should_not_proceed">Du bør ikke fortsætte, især hvis du aldrig tidligere har set denne advarsel for dette websted.</string>
+    <string name="boxsdk_title_activity_oauth">OAuthActivity</string>
+    <string msgid="146198913615257606" name="search_menu_title">"Søg"</string>
+    <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"999+"</string>
+</resources>

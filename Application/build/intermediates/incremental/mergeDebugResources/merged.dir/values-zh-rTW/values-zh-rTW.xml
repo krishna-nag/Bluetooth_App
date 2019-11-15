@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"瀏覽首頁"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"向上瀏覽"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"更多選項"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"完成"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"查看全部"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"選擇應用程式"</string>
+    <string msgid="121134116657445385" name="abc_capital_off">"關閉"</string>
+    <string msgid="3405795526292276155" name="abc_capital_on">"開啟"</string>
+    <string msgid="7723749260725869598" name="abc_search_hint">"搜尋…"</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"清除查詢"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"搜尋查詢"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"搜尋"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"提交查詢"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"語音搜尋"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"選擇分享對象"</string>
+    <string msgid="3300176832234831527" name="abc_shareactionprovider_share_with_application">"與「<ns1:g id="APPLICATION_NAME">%s</ns1:g>」分享"</string>
+    <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"收合"</string>
+    <string name="boxsdk_Authenticating">驗證中</string>
+    <string name="boxsdk_Authentication_cancelled">驗證取消</string>
+    <string name="boxsdk_Authentication_fail">驗證失敗</string>
+    <string name="boxsdk_Authentication_fail_url_mismatch">重新導向 URL 無效</string>
+    <string name="boxsdk_Cancel">取消</string>
+    <string name="boxsdk_Continue">繼續</string>
+    <string name="boxsdk_Create_folder">建立資料夾</string>
+    <string name="boxsdk_Go_back">返回</string>
+    <string name="boxsdk_Please_wait">請稍候…</string>
+    <string name="boxsdk_Security_Warning">安全警告</string>
+    <string name="boxsdk_Select">選擇</string>
+    <string name="boxsdk_Select_an_account_to_use">選擇要使用的帳戶</string>
+    <string name="boxsdk_There_are_problems_with_the_security_certificate_for_this_site">此網站的安全憑證發生問題。</string>
+    <string name="boxsdk_Use_a_different_account">選擇其他帳戶</string>
+    <string description="" name="boxsdk_alert_dialog_cancel">取消</string>
+    <string description="" name="boxsdk_alert_dialog_ok">送出</string>
+    <string description="" name="boxsdk_alert_dialog_password">密碼</string>
+    <string description="" name="boxsdk_alert_dialog_text_entry">此網站或應用程式需要驗證。</string>
+    <string description="" name="boxsdk_alert_dialog_username">使用者名稱</string>
+    <string name="boxsdk_details">詳細資訊</string>
+    <string name="boxsdk_ssl_error_warning_DATE_INVALID">憑證日期無效。</string>
+    <string name="boxsdk_ssl_error_warning_EXPIRED">憑證已到期。</string>
+    <string name="boxsdk_ssl_error_warning_ID_MISMATCH">主機名稱不符。</string>
+    <string name="boxsdk_ssl_error_warning_INVALID">發生一般性錯誤。</string>
+    <string name="boxsdk_ssl_error_warning_NOT_YET_VALID">憑證尚未生效。</string>
+    <string name="boxsdk_ssl_error_warning_UNTRUSTED">憑證發行者不是受信任的來源。</string>
+    <string name="boxsdk_ssl_should_not_proceed">請勿繼續執行，尤其是當您從未在此網站上看過此警告時。</string>
+    <string name="boxsdk_title_activity_oauth">OAuthActivity</string>
+    <string msgid="146198913615257606" name="search_menu_title">"搜尋"</string>
+    <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"999+"</string>
+</resources>

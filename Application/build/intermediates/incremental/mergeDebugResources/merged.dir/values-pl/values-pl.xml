@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"Przejdź do strony głównej"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"Przejdź wyżej"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"Więcej opcji"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"Gotowe"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"Zobacz wszystkie"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"Wybierz aplikację"</string>
+    <string msgid="121134116657445385" name="abc_capital_off">"WYŁ."</string>
+    <string msgid="3405795526292276155" name="abc_capital_on">"WŁ."</string>
+    <string msgid="7723749260725869598" name="abc_search_hint">"Szukaj…"</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"Wyczyść zapytanie"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"Wyszukiwane hasło"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"Szukaj"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"Wyślij zapytanie"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"Wyszukiwanie głosowe"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"Udostępnij dla"</string>
+    <string msgid="3300176832234831527" name="abc_shareactionprovider_share_with_application">"Udostępnij przez: <ns1:g id="APPLICATION_NAME">%s</ns1:g>"</string>
+    <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"Zwiń"</string>
+    <string name="boxsdk_Authenticating">Uwierzytelnianie</string>
+    <string name="boxsdk_Authentication_cancelled">Uwierzytelnianie anulowane</string>
+    <string name="boxsdk_Authentication_fail">Uwierzytelnianie nie powiodło się</string>
+    <string name="boxsdk_Authentication_fail_url_mismatch">Adres URL przekierowania jest nieprawidłowy</string>
+    <string name="boxsdk_Cancel">Anuluj</string>
+    <string name="boxsdk_Continue">Kontynuuj</string>
+    <string name="boxsdk_Create_folder">Utwórz folder</string>
+    <string name="boxsdk_Go_back">Wróć</string>
+    <string name="boxsdk_Please_wait">Czekaj...</string>
+    <string name="boxsdk_Security_Warning">Ostrzeżenie bezpieczeństwa</string>
+    <string name="boxsdk_Select">Wybierz</string>
+    <string name="boxsdk_Select_an_account_to_use">Wybierz konto do użycia</string>
+    <string name="boxsdk_There_are_problems_with_the_security_certificate_for_this_site">Napotkano problemy z certyfikatem bezpieczeństwa dla tej witryny.</string>
+    <string name="boxsdk_Use_a_different_account">Użyj innego konta</string>
+    <string description="" name="boxsdk_alert_dialog_cancel">Anuluj</string>
+    <string description="" name="boxsdk_alert_dialog_ok">Prześlij</string>
+    <string description="" name="boxsdk_alert_dialog_password">Hasło</string>
+    <string description="" name="boxsdk_alert_dialog_text_entry">Ta witryna lub aplikacja żąda uwierzytelnienia.</string>
+    <string description="" name="boxsdk_alert_dialog_username">Nazwa użytkownika</string>
+    <string name="boxsdk_details">Szczegóły</string>
+    <string name="boxsdk_ssl_error_warning_DATE_INVALID">Niepoprawna data certyfikatu.</string>
+    <string name="boxsdk_ssl_error_warning_EXPIRED">Certyfikat wygasł.</string>
+    <string name="boxsdk_ssl_error_warning_ID_MISMATCH">Niezgodność nazwy hosta.</string>
+    <string name="boxsdk_ssl_error_warning_INVALID">Wystąpił ogólny błąd.</string>
+    <string name="boxsdk_ssl_error_warning_NOT_YET_VALID">Certyfikat nie jest jeszcze ważny.</string>
+    <string name="boxsdk_ssl_error_warning_UNTRUSTED">Urząd certyfikacji nie jest zaufany.</string>
+    <string name="boxsdk_ssl_should_not_proceed">Nie należy kontynuować, zwłaszcza jeśli ostrzeżenie to zostało wyświetlone po raz pierwszy dla tej witryny.</string>
+    <string name="boxsdk_title_activity_oauth">OAuthActivity</string>
+    <string msgid="146198913615257606" name="search_menu_title">"Szukaj"</string>
+    <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"999+"</string>
+</resources>

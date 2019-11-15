@@ -1,0 +1,207 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/krish/Documents/Projects/US_project/android-BluetoothLeGatt-master/Application/src/main/AndroidManifest.xml:16:1-98:12
+INJECTED from /Users/krish/Documents/Projects/US_project/android-BluetoothLeGatt-master/Application/src/main/AndroidManifest.xml:16:1-98:12
+INJECTED from /Users/krish/Documents/Projects/US_project/android-BluetoothLeGatt-master/Application/src/main/AndroidManifest.xml:16:1-98:12
+MERGED from [com.android.support:support-v13:27.0.2] /Users/krish/.gradle/caches/transforms-1/files-1.1/support-v13-27.0.2.aar/15026e8c8842a14db64dfc9ac2b01abe/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-v4:27.0.2] /Users/krish/.gradle/caches/transforms-1/files-1.1/support-v4-27.0.2.aar/9e0e447868475bb97386d44b793253dc/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:27.0.2] /Users/krish/.gradle/caches/transforms-1/files-1.1/cardview-v7-27.0.2.aar/79c06a331ee0ad5ac1e7696daf038879/AndroidManifest.xml:17:1-22:12
+MERGED from [com.box:box-android-sdk:3.0.3] /Users/krish/.gradle/caches/transforms-1/files-1.1/box-android-sdk-3.0.3.aar/68b1a249d23d4e402f31fc97fe76f08c/AndroidManifest.xml:2:1-20:12
+MERGED from [com.android.support:appcompat-v7:27.0.2] /Users/krish/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/a49ebaebaef5b5e55882c056316a9b60/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.0.2] /Users/krish/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.0.2.aar/55bb21b4b27b85f8bea80cace39b4d54/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.0.2] /Users/krish/.gradle/caches/transforms-1/files-1.1/support-fragment-27.0.2.aar/973162ce7f6aeb83ac8abccc9cc12b5d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.0.2] /Users/krish/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.0.2.aar/24b1725eeb423e62dbc74b0b92d8b65c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] /Users/krish/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.0.2.aar/41c8b63ed5b1b8c7e8378ba0300c91bc/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.0.2] /Users/krish/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.0.2.aar/beb88552de1a8b7ae14aa476fb4b9ac3/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.0.2] /Users/krish/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.0.2.aar/b67f4b6eba097e5f755dbc703be98e08/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.0.2] /Users/krish/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.2.aar/7ceaab14523c0290f1b59b2632468bc5/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/krish/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/a8d40e63082f945c61c1818f97b2f4f7/AndroidManifest.xml:2:1-11:12
+MERGED from [android.arch.lifecycle:runtime:1.0.3] /Users/krish/.gradle/caches/transforms-1/files-1.1/runtime-1.0.3.aar/f705989b23dee4f1fcee8e0d6a633c66/AndroidManifest.xml:17:1-24:12
+INJECTED from /Users/krish/Documents/Projects/US_project/android-BluetoothLeGatt-master/Application/src/main/AndroidManifest.xml:16:1-98:12
+INJECTED from /Users/krish/Documents/Projects/US_project/android-BluetoothLeGatt-master/Application/src/main/AndroidManifest.xml:16:1-98:12
+	package
+		ADDED from /Users/krish/Documents/Projects/US_project/android-BluetoothLeGatt-master/Application/src/main/AndroidManifest.xml:17:5-50
+	android:versionName
+		ADDED from /Users/krish/Documents/Projects/US_project/android-BluetoothLeGatt-master/Application/src/main/AndroidManifest.xml:19:5-30
+		INJECTED from /Users/krish/Documents/Projects/US_project/android-BluetoothLeGatt-master/Application/src/main/AndroidManifest.xml
+		INJECTED from /Users/krish/Documents/Projects/US_project/android-BluetoothLeGatt-master/Application/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/krish/Documents/Projects/US_project/android-BluetoothLeGatt-master/Application/src/main/AndroidManifest.xml:16:11-69
+	android:versionCode
+		ADDED from /Users/krish/Documents/Projects/US_project/android-BluetoothLeGatt-master/Application/src/main/AndroidManifest.xml:18:5-28
+		INJECTED from /Users/krish/Documents/Projects/US_project/android-BluetoothLeGatt-master/Application/src/main/AndroidManifest.xml
+		INJECTED from /Users/krish/Documents/Projects/US_project/android-BluetoothLeGatt-master/Application/src/main/AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from /Users/krish/Documents/Projects/US_project/android-BluetoothLeGatt-master/Application/src/main/AndroidManifest.xml:21:5-67
+MERGED from [com.box:box-android-sdk:3.0.3] /Users/krish/.gradle/caches/transforms-1/files-1.1/box-android-sdk-3.0.3.aar/68b1a249d23d4e402f31fc97fe76f08c/AndroidManifest.xml:11:5-67
+MERGED from [com.box:box-android-sdk:3.0.3] /Users/krish/.gradle/caches/transforms-1/files-1.1/box-android-sdk-3.0.3.aar/68b1a249d23d4e402f31fc97fe76f08c/AndroidManifest.xml:11:5-67
+	android:name
+		ADDED from /Users/krish/Documents/Projects/US_project/android-BluetoothLeGatt-master/Application/src/main/AndroidManifest.xml:21:22-64
+uses-feature#android.hardware.bluetooth_le
+ADDED from /Users/krish/Documents/Projects/US_project/android-BluetoothLeGatt-master/Application/src/main/AndroidManifest.xml:32:5-34:35
+	android:required
+		ADDED from /Users/krish/Documents/Projects/US_project/android-BluetoothLeGatt-master/Application/src/main/AndroidManifest.xml:34:9-32
+	android:name
+		ADDED from /Users/krish/Documents/Projects/US_project/android-BluetoothLeGatt-master/Application/src/main/AndroidManifest.xml:33:9-53
+uses-permission#android.permission.BLUETOOTH
+ADDED from /Users/krish/Documents/Projects/US_project/android-BluetoothLeGatt-master/Application/src/main/AndroidManifest.xml:36:5-68
+	android:name
+		ADDED from /Users/krish/Documents/Projects/US_project/android-BluetoothLeGatt-master/Application/src/main/AndroidManifest.xml:36:22-65
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from /Users/krish/Documents/Projects/US_project/android-BluetoothLeGatt-master/Application/src/main/AndroidManifest.xml:37:5-74
+	android:name
+		ADDED from /Users/krish/Documents/Projects/US_project/android-BluetoothLeGatt-master/Application/src/main/AndroidManifest.xml:37:22-71
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /Users/krish/Documents/Projects/US_project/android-BluetoothLeGatt-master/Application/src/main/AndroidManifest.xml:38:5-79
+	android:name
+		ADDED from /Users/krish/Documents/Projects/US_project/android-BluetoothLeGatt-master/Application/src/main/AndroidManifest.xml:38:22-76
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from /Users/krish/Documents/Projects/US_project/android-BluetoothLeGatt-master/Application/src/main/AndroidManifest.xml:39:5-81
+	android:name
+		ADDED from /Users/krish/Documents/Projects/US_project/android-BluetoothLeGatt-master/Application/src/main/AndroidManifest.xml:39:22-78
+uses-permission-sdk-23#android.permission.ACCESS_FINE_LOCATION
+ADDED from /Users/krish/Documents/Projects/US_project/android-BluetoothLeGatt-master/Application/src/main/AndroidManifest.xml:41:5-86
+	android:name
+		ADDED from /Users/krish/Documents/Projects/US_project/android-BluetoothLeGatt-master/Application/src/main/AndroidManifest.xml:41:29-83
+uses-permission-sdk-23#android.permission.ACCESS_COARSE_LOCATION
+ADDED from /Users/krish/Documents/Projects/US_project/android-BluetoothLeGatt-master/Application/src/main/AndroidManifest.xml:42:5-88
+	android:name
+		ADDED from /Users/krish/Documents/Projects/US_project/android-BluetoothLeGatt-master/Application/src/main/AndroidManifest.xml:42:29-85
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/krish/Documents/Projects/US_project/android-BluetoothLeGatt-master/Application/src/main/AndroidManifest.xml:44:5-81
+	android:name
+		ADDED from /Users/krish/Documents/Projects/US_project/android-BluetoothLeGatt-master/Application/src/main/AndroidManifest.xml:44:22-78
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/krish/Documents/Projects/US_project/android-BluetoothLeGatt-master/Application/src/main/AndroidManifest.xml:50:5-79
+	android:name
+		ADDED from /Users/krish/Documents/Projects/US_project/android-BluetoothLeGatt-master/Application/src/main/AndroidManifest.xml:50:22-76
+application
+ADDED from /Users/krish/Documents/Projects/US_project/android-BluetoothLeGatt-master/Application/src/main/AndroidManifest.xml:52:5-96:19
+MERGED from [com.box:box-android-sdk:3.0.3] /Users/krish/.gradle/caches/transforms-1/files-1.1/box-android-sdk-3.0.3.aar/68b1a249d23d4e402f31fc97fe76f08c/AndroidManifest.xml:13:5-18:19
+MERGED from [com.box:box-android-sdk:3.0.3] /Users/krish/.gradle/caches/transforms-1/files-1.1/box-android-sdk-3.0.3.aar/68b1a249d23d4e402f31fc97fe76f08c/AndroidManifest.xml:13:5-18:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/krish/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/a8d40e63082f945c61c1818f97b2f4f7/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/krish/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/a8d40e63082f945c61c1818f97b2f4f7/AndroidManifest.xml:9:5-20
+	android:label
+		ADDED from /Users/krish/Documents/Projects/US_project/android-BluetoothLeGatt-master/Application/src/main/AndroidManifest.xml:54:9-41
+	android:icon
+		ADDED from /Users/krish/Documents/Projects/US_project/android-BluetoothLeGatt-master/Application/src/main/AndroidManifest.xml:53:9-45
+	android:theme
+		ADDED from /Users/krish/Documents/Projects/US_project/android-BluetoothLeGatt-master/Application/src/main/AndroidManifest.xml:55:9-56
+activity#com.example.android.bluetoothlegatt.DeviceScanActivity
+ADDED from /Users/krish/Documents/Projects/US_project/android-BluetoothLeGatt-master/Application/src/main/AndroidManifest.xml:56:9-58:48
+	android:label
+		ADDED from /Users/krish/Documents/Projects/US_project/android-BluetoothLeGatt-master/Application/src/main/AndroidManifest.xml:58:13-45
+	android:name
+		ADDED from /Users/krish/Documents/Projects/US_project/android-BluetoothLeGatt-master/Application/src/main/AndroidManifest.xml:57:13-47
+activity#com.example.android.bluetoothlegatt.DeviceControlActivity
+ADDED from /Users/krish/Documents/Projects/US_project/android-BluetoothLeGatt-master/Application/src/main/AndroidManifest.xml:59:9-61:52
+	android:screenOrientation
+		ADDED from /Users/krish/Documents/Projects/US_project/android-BluetoothLeGatt-master/Application/src/main/AndroidManifest.xml:61:13-49
+	android:name
+		ADDED from /Users/krish/Documents/Projects/US_project/android-BluetoothLeGatt-master/Application/src/main/AndroidManifest.xml:60:13-50
+service#com.example.android.bluetoothlegatt.BluetoothLeService
+ADDED from /Users/krish/Documents/Projects/US_project/android-BluetoothLeGatt-master/Application/src/main/AndroidManifest.xml:63:9-65:38
+	android:enabled
+		ADDED from /Users/krish/Documents/Projects/US_project/android-BluetoothLeGatt-master/Application/src/main/AndroidManifest.xml:65:13-35
+	android:name
+		ADDED from /Users/krish/Documents/Projects/US_project/android-BluetoothLeGatt-master/Application/src/main/AndroidManifest.xml:64:13-47
+activity#com.example.android.bluetoothlegatt.LoginActivity
+ADDED from /Users/krish/Documents/Projects/US_project/android-BluetoothLeGatt-master/Application/src/main/AndroidManifest.xml:67:9-69:60
+	android:label
+		ADDED from /Users/krish/Documents/Projects/US_project/android-BluetoothLeGatt-master/Application/src/main/AndroidManifest.xml:69:13-57
+	android:name
+		ADDED from /Users/krish/Documents/Projects/US_project/android-BluetoothLeGatt-master/Application/src/main/AndroidManifest.xml:68:13-42
+service#com.example.android.bluetoothlegatt.PILRupload
+ADDED from /Users/krish/Documents/Projects/US_project/android-BluetoothLeGatt-master/Application/src/main/AndroidManifest.xml:71:9-74:39
+	android:enabled
+		ADDED from /Users/krish/Documents/Projects/US_project/android-BluetoothLeGatt-master/Application/src/main/AndroidManifest.xml:73:13-35
+	android:exported
+		ADDED from /Users/krish/Documents/Projects/US_project/android-BluetoothLeGatt-master/Application/src/main/AndroidManifest.xml:74:13-36
+	android:name
+		ADDED from /Users/krish/Documents/Projects/US_project/android-BluetoothLeGatt-master/Application/src/main/AndroidManifest.xml:72:13-39
+service#com.example.android.bluetoothlegatt.central
+ADDED from /Users/krish/Documents/Projects/US_project/android-BluetoothLeGatt-master/Application/src/main/AndroidManifest.xml:75:9-78:39
+	android:enabled
+		ADDED from /Users/krish/Documents/Projects/US_project/android-BluetoothLeGatt-master/Application/src/main/AndroidManifest.xml:77:13-35
+	android:exported
+		ADDED from /Users/krish/Documents/Projects/US_project/android-BluetoothLeGatt-master/Application/src/main/AndroidManifest.xml:78:13-36
+	android:name
+		ADDED from /Users/krish/Documents/Projects/US_project/android-BluetoothLeGatt-master/Application/src/main/AndroidManifest.xml:76:13-36
+activity#com.example.android.bluetoothlegatt.MainActivity
+ADDED from /Users/krish/Documents/Projects/US_project/android-BluetoothLeGatt-master/Application/src/main/AndroidManifest.xml:80:9-88:20
+	android:label
+		ADDED from /Users/krish/Documents/Projects/US_project/android-BluetoothLeGatt-master/Application/src/main/AndroidManifest.xml:82:13-56
+	android:name
+		ADDED from /Users/krish/Documents/Projects/US_project/android-BluetoothLeGatt-master/Application/src/main/AndroidManifest.xml:81:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/krish/Documents/Projects/US_project/android-BluetoothLeGatt-master/Application/src/main/AndroidManifest.xml:83:13-87:29
+action#android.intent.action.MAIN
+ADDED from /Users/krish/Documents/Projects/US_project/android-BluetoothLeGatt-master/Application/src/main/AndroidManifest.xml:84:17-69
+	android:name
+		ADDED from /Users/krish/Documents/Projects/US_project/android-BluetoothLeGatt-master/Application/src/main/AndroidManifest.xml:84:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/krish/Documents/Projects/US_project/android-BluetoothLeGatt-master/Application/src/main/AndroidManifest.xml:86:17-77
+	android:name
+		ADDED from /Users/krish/Documents/Projects/US_project/android-BluetoothLeGatt-master/Application/src/main/AndroidManifest.xml:86:27-74
+service#com.example.android.bluetoothlegatt.AnalyseNotify
+ADDED from /Users/krish/Documents/Projects/US_project/android-BluetoothLeGatt-master/Application/src/main/AndroidManifest.xml:90:9-92:40
+	android:exported
+		ADDED from /Users/krish/Documents/Projects/US_project/android-BluetoothLeGatt-master/Application/src/main/AndroidManifest.xml:92:13-37
+	android:name
+		ADDED from /Users/krish/Documents/Projects/US_project/android-BluetoothLeGatt-master/Application/src/main/AndroidManifest.xml:91:13-42
+service#com.example.android.bluetoothlegatt.Box
+ADDED from /Users/krish/Documents/Projects/US_project/android-BluetoothLeGatt-master/Application/src/main/AndroidManifest.xml:93:9-95:48
+	android:exported
+		ADDED from /Users/krish/Documents/Projects/US_project/android-BluetoothLeGatt-master/Application/src/main/AndroidManifest.xml:95:13-37
+	android:name
+		ADDED from /Users/krish/Documents/Projects/US_project/android-BluetoothLeGatt-master/Application/src/main/AndroidManifest.xml:94:13-32
+uses-sdk
+INJECTED from /Users/krish/Documents/Projects/US_project/android-BluetoothLeGatt-master/Application/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/krish/Documents/Projects/US_project/android-BluetoothLeGatt-master/Application/src/main/AndroidManifest.xml
+INJECTED from /Users/krish/Documents/Projects/US_project/android-BluetoothLeGatt-master/Application/src/main/AndroidManifest.xml
+MERGED from [com.android.support:support-v13:27.0.2] /Users/krish/.gradle/caches/transforms-1/files-1.1/support-v13-27.0.2.aar/15026e8c8842a14db64dfc9ac2b01abe/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v13:27.0.2] /Users/krish/.gradle/caches/transforms-1/files-1.1/support-v13-27.0.2.aar/15026e8c8842a14db64dfc9ac2b01abe/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.0.2] /Users/krish/.gradle/caches/transforms-1/files-1.1/support-v4-27.0.2.aar/9e0e447868475bb97386d44b793253dc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.0.2] /Users/krish/.gradle/caches/transforms-1/files-1.1/support-v4-27.0.2.aar/9e0e447868475bb97386d44b793253dc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.0.2] /Users/krish/.gradle/caches/transforms-1/files-1.1/cardview-v7-27.0.2.aar/79c06a331ee0ad5ac1e7696daf038879/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.0.2] /Users/krish/.gradle/caches/transforms-1/files-1.1/cardview-v7-27.0.2.aar/79c06a331ee0ad5ac1e7696daf038879/AndroidManifest.xml:20:5-44
+MERGED from [com.box:box-android-sdk:3.0.3] /Users/krish/.gradle/caches/transforms-1/files-1.1/box-android-sdk-3.0.3.aar/68b1a249d23d4e402f31fc97fe76f08c/AndroidManifest.xml:7:5-9:41
+MERGED from [com.box:box-android-sdk:3.0.3] /Users/krish/.gradle/caches/transforms-1/files-1.1/box-android-sdk-3.0.3.aar/68b1a249d23d4e402f31fc97fe76f08c/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:27.0.2] /Users/krish/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/a49ebaebaef5b5e55882c056316a9b60/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.0.2] /Users/krish/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/a49ebaebaef5b5e55882c056316a9b60/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.0.2] /Users/krish/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.0.2.aar/55bb21b4b27b85f8bea80cace39b4d54/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.0.2] /Users/krish/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.0.2.aar/55bb21b4b27b85f8bea80cace39b4d54/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.2] /Users/krish/.gradle/caches/transforms-1/files-1.1/support-fragment-27.0.2.aar/973162ce7f6aeb83ac8abccc9cc12b5d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.2] /Users/krish/.gradle/caches/transforms-1/files-1.1/support-fragment-27.0.2.aar/973162ce7f6aeb83ac8abccc9cc12b5d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.2] /Users/krish/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.0.2.aar/24b1725eeb423e62dbc74b0b92d8b65c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.2] /Users/krish/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.0.2.aar/24b1725eeb423e62dbc74b0b92d8b65c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] /Users/krish/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.0.2.aar/41c8b63ed5b1b8c7e8378ba0300c91bc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] /Users/krish/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.0.2.aar/41c8b63ed5b1b8c7e8378ba0300c91bc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.2] /Users/krish/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.0.2.aar/beb88552de1a8b7ae14aa476fb4b9ac3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.2] /Users/krish/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.0.2.aar/beb88552de1a8b7ae14aa476fb4b9ac3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.2] /Users/krish/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.0.2.aar/b67f4b6eba097e5f755dbc703be98e08/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.2] /Users/krish/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.0.2.aar/b67f4b6eba097e5f755dbc703be98e08/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.2] /Users/krish/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.2.aar/7ceaab14523c0290f1b59b2632468bc5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.2] /Users/krish/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.2.aar/7ceaab14523c0290f1b59b2632468bc5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/krish/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/a8d40e63082f945c61c1818f97b2f4f7/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/krish/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/a8d40e63082f945c61c1818f97b2f4f7/AndroidManifest.xml:5:5-7:41
+MERGED from [android.arch.lifecycle:runtime:1.0.3] /Users/krish/.gradle/caches/transforms-1/files-1.1/runtime-1.0.3.aar/f705989b23dee4f1fcee8e0d6a633c66/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.3] /Users/krish/.gradle/caches/transforms-1/files-1.1/runtime-1.0.3.aar/f705989b23dee4f1fcee8e0d6a633c66/AndroidManifest.xml:20:5-22:41
+INJECTED from /Users/krish/Documents/Projects/US_project/android-BluetoothLeGatt-master/Application/src/main/AndroidManifest.xml
+INJECTED from /Users/krish/Documents/Projects/US_project/android-BluetoothLeGatt-master/Application/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/krish/Documents/Projects/US_project/android-BluetoothLeGatt-master/Application/src/main/AndroidManifest.xml
+		ADDED from /Users/krish/Documents/Projects/US_project/android-BluetoothLeGatt-master/Application/src/main/AndroidManifest.xml
+		INJECTED from /Users/krish/Documents/Projects/US_project/android-BluetoothLeGatt-master/Application/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/krish/Documents/Projects/US_project/android-BluetoothLeGatt-master/Application/src/main/AndroidManifest.xml
+		ADDED from /Users/krish/Documents/Projects/US_project/android-BluetoothLeGatt-master/Application/src/main/AndroidManifest.xml
+		INJECTED from /Users/krish/Documents/Projects/US_project/android-BluetoothLeGatt-master/Application/src/main/AndroidManifest.xml
+activity#com.box.androidsdk.content.auth.OAuthActivity
+ADDED from [com.box:box-android-sdk:3.0.3] /Users/krish/.gradle/caches/transforms-1/files-1.1/box-android-sdk-3.0.3.aar/68b1a249d23d4e402f31fc97fe76f08c/AndroidManifest.xml:14:9-17:39
+	android:exported
+		ADDED from [com.box:box-android-sdk:3.0.3] /Users/krish/.gradle/caches/transforms-1/files-1.1/box-android-sdk-3.0.3.aar/68b1a249d23d4e402f31fc97fe76f08c/AndroidManifest.xml:17:13-36
+	android:configChanges
+		ADDED from [com.box:box-android-sdk:3.0.3] /Users/krish/.gradle/caches/transforms-1/files-1.1/box-android-sdk-3.0.3.aar/68b1a249d23d4e402f31fc97fe76f08c/AndroidManifest.xml:16:13-59
+	android:name
+		ADDED from [com.box:box-android-sdk:3.0.3] /Users/krish/.gradle/caches/transforms-1/files-1.1/box-android-sdk-3.0.3.aar/68b1a249d23d4e402f31fc97fe76f08c/AndroidManifest.xml:15:13-73
